@@ -9,14 +9,6 @@ We are testing the [SauceDemo](https://www.saucedemo.com/) application with two 
 
 ---
 
-## 📂 Project Structure
-```
-
-
-```
-
----
-
 ## 🔹 Test Scenarios
 
 ### Login Test
